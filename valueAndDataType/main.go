@@ -20,7 +20,7 @@ func main() {
 	fmt.Println(number3)
 
 
-	num4 := number
+	//num4 := number
 	
 	var decNum float32
 	decNum =13211.3554151
